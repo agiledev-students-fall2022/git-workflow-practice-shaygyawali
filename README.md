@@ -8,3 +8,11 @@ It also makes me wonder how history can be seen through these archives throughou
 ### Comments by Ben
 
 I have always been fascinated by the *Arctic Code Vault* project. To think that contributions I've made will live for over 900 years after my death is incredible. One can only imagine the state of technology and the world in 1,000 years.
+
+### Comments by Raj
+
+Firstly, I'd like to thank **user: shaygyawali** for sharing this article. I had heard about the *Seed Vault* and *Golden Disc* before, but this is the first time learning about the *Artic Code Vault*. My favourite thing about this vault is the preservation of Open Source Software. As markets move towards privatization, it is nice to think that projects which could be taken down in the future and made into a "for sale" product will be free and protected for the forseeable future. Additionally, I'm not sure I agree that the vault will only be used locally. Depending on how optimistic you are about our inter-planetary struggle, I see this vault as a use case for building out software infrastructure on new planetary bodies, which is an exciting idea. 
+
+>> "I would be really interesting to see the repos from the beginning of COVID-19 and see how much progress was made since."
+
+**@shaygyawali** you should check out this repo from **user: owid** [here](https://github.com/owid/covid-19-data), it is a huge dataset containing vital covid information tracked globally.
